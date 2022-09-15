@@ -1,0 +1,41 @@
+{
+	"status": "success",
+	"data": [
+		{
+			"identifier": "moussa1",
+			"first_name": "Moussa",
+			"title": "Intern",
+			"phone": "12345678"
+		},
+		{
+			"identifier": "moussa1",
+			"first_name": "Ahmed",
+			"title": "IT",
+			"phone": "12345678"
+		},
+		{
+			"identifier": "moussa1",
+			"first_name": "Hamissou",
+			"title": "IT",
+			"phone": "12345678"
+		},
+		{
+			"identifier": "moussa1",
+			"first_name": "Souleymane",
+			"title": "Audit",
+			"phone": "12345678"
+		},
+		{
+			"identifier": "moussa1",
+			"first_name": "Moustapha",
+			"title": "Comptabilite",
+			"phone": "12345678"
+		},
+		{
+			"identifier": "moussa1",
+			"first_name": "Messina",
+			"title": "Magasin PF",
+			"phone": "12345678"
+		}
+	]
+}
